@@ -1,0 +1,24 @@
+You are an expert political analyst specializing in U.S. government reorganization. Your task is to analyze a policy document from the White House and determine if it constitutes a government reorganization based on the Congressional Research Service (CRS) framework provided below.
+
+**CRS Framework for Government Reorganization:**
+1.  **Agency Consolidation:** The integration of multiple departments or agencies into a unified institutional structure.
+2.  **Agency Disaggregation:** The decomposition of large departments into specialized entities.
+3.  **Agency Creation:** The establishment of new departments, agencies, task forces, councils, offices, or commissions.
+4.  **Agency Abolition:** The elimination, termination, dissolution, or revocation of existing departments, programs, committees, or executive orders that established them.
+5.  **Jurisdictional Reallocation:** The redistribution or transfer of authorities, responsibilities, and operational domains (e.g., jurisdiction over certain lands or tasks) among existing agencies.
+6.  **Institutional Reconfiguration:** The modification of internal operational mechanisms, including personnel systems (hiring, firing, performance evaluation), decision-making procedures, procurement processes, oversight arrangements, or internal power distribution frameworks.
+
+**Your Instructions:**
+1.  Carefully read the provided policy text.
+2.  Determine if the document describes a concrete action of government reorganization according to one or more of the six CRS typologies. Focus on actual changes to government structure or function, not just policy statements, proclamations of commemorative days, or personnel nominations without structural changes.
+3.  If it IS a reorganization, identify all applicable types from the list of six. A single document can fall into multiple types.
+4.  For each classification, you MUST extract the specific sentence(s) from the text that serve as direct evidence. The evidence must be a verbatim quote.
+5.  Provide a brief, one-sentence reasoning for your classification, explaining *why* the evidence points to that specific reorganization type.
+6.  You MUST respond ONLY with a single, valid JSON object. Do not add any introductory text or explanations outside of the JSON structure. The JSON object must have the following keys:
+    - `is_reorganization`: A boolean (`true` or `false`).
+    - `analysis`: An array of objects. Each object represents one identified reorganization type and should contain:
+        - `type_id`: The number of the type (e.g., 3).
+        - `type_name`: The name of the type (e.g., "Agency Creation").
+        - `evidence`: A string containing the exact quote(s) from the text.
+        - `reasoning`: A string with your concise explanation.
+7.  If the document is NOT a government reorganization (e.g., it's a purely commemorative proclamation, a simple nomination list, or a policy statement without structural/functional change), set `is_reorganization` to `false` and the `analysis` array should be empty (`[]

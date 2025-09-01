@@ -1,0 +1,1354 @@
+[
+  {
+    "ID": 208,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The following executive actions are hereby revoked: Executive Order 14007 of January 27, 2021 (President’s Council of Advisors on Science and Technology). Executive Order 14011 of February 2, 2021 (Establishment of Interagency Task Force on the Reunification of Families). Executive Order 14015 of February 14, 2021 (Establishment of the White House Office of Faith-Based and Neighborhood Partnerships). Executive Order 14020 of March 8, 2021 (Establishment of the White House Gender Policy Council).",
+        "reasoning": "This order explicitly revokes numerous previous executive orders, many of which established councils, task forces, and offices, thereby abolishing them."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "To effectuate the revocations described in section 2 of this order, the heads of each agency shall take immediate steps to end Federal implementation of unlawful and radical DEI ideology.",
+        "reasoning": "This command reconfigures agency operations by mandating the cessation of DEI-related implementation, altering internal policies and practices across the government."
+      }
+    ]
+  },
+  {
+    "ID": 191,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "Following the provision of the guidance, the Chairman of CEQ shall convene a working group to coordinate the revision of agency-level implementing regulations for consistency.",
+        "reasoning": "This sentence establishes a new working group to coordinate regulatory revisions, which constitutes the creation of a new government body."
+      },
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The following are revoked and any offices established therein are abolished: (i) Executive Order 13990 of January 20, 2021 (Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis);... The Interagency Working Group on the Social Cost of Greenhouse Gases (IWG), which was established pursuant to Executive Order 13990, is hereby disbanded, and any guidance, instruction, recommendation, or document issued by the IWG is withdrawn... All activities, programs, and operations associated with the American Climate Corps, including actions taken by any agency shall be terminated immediately.",
+        "reasoning": "The order explicitly revokes executive orders, disbands a working group, abolishes associated offices, and terminates the American Climate Corps program."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "All agencies shall immediately pause the disbursement of funds appropriated through the Inflation Reduction Act of 2022 (Public Law 117-169) or the Infrastructure Investment and Jobs Act (Public Law 117-58)...and shall review their processes, policies, and programs for issuing grants, loans, contracts, or any other financial disbursements... In all Federal permitting adjudications or regulatory processes, all agencies shall adhere to only the relevant legislated requirements for environmental considerations and any considerations beyond these requirements are eliminated.",
+        "reasoning": "This order reconfigures internal agency operations by pausing fund disbursement from major acts pending review and fundamentally changing the criteria for environmental analyses and permitting."
+      }
+    ]
+  },
+  {
+    "ID": 18,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The establishment of field training teams by the Under Secretary of Defense for Acquisition and Sustainment... A detailed process by which the Under Secretary of Defense for Acquisition and Sustainment, Service Acquisition Executives, and Component Acquisition Executives can effectively manage risk for all acquisition programs through a formal steering board known as a Configuration Steering Board.",
+        "reasoning": "The order mandates the creation of new entities, specifically field training teams and a formal steering board, to oversee and assist with acquisitions."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 60 days of the date of this order, the Secretary of Defense shall submit to the President a plan to reform the Department of Defense’s acquisition processes that, to the maximum extent possible, incorporates the following:(a) Utilization of existing authorities to expedite acquisitions throughout the Department of Defense... (b) A detailed process review of each functional support role within the acquisition workforce to eliminate unnecessary tasks, reduce duplicative approvals, and centralize decision-making.",
+        "reasoning": "The document mandates a comprehensive reform of the DoD's acquisition processes, including workforce performance metrics, program reviews, and the use of specific contracting authorities."
+      }
+    ]
+  },
+  {
+    "ID": 53,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 1,
+        "type_name": "Agency Consolidation",
+        "evidence": "Within 180 days of the date of this order, the OMB Director shall issue guidance that directs agencies described in 31 U.S.C. 901(b) (CFO Act agencies) to consolidate their core financial systems.",
+        "reasoning": "The order mandates the consolidation of core financial systems from multiple agencies into a more unified structure."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The heads of agencies with disbursing authority under 31 U.S.C. 3321(c)...will work with the Secretary of the Treasury to delegate the performance of their disbursing activities, other than with respect to classified payments, to the Department of the Treasury’s Chief Disbursing Officer in accordance with applicable law.",
+        "reasoning": "This sentence explicitly reallocates the authority and responsibility for disbursing payments from various agencies to the Department of the Treasury."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of the Treasury...shall update guidance and enhance systems to ensure that all payments made by the Department of the Treasury on behalf of agencies pursuant to the Secretary of the Treasury’s disbursing authority...are subject to pre-certification verification processes established by the Secretary of the Treasury...",
+        "reasoning": "The order reconfigures the government's payment process by mandating a new pre-certification verification step managed by the Treasury, altering how agency disbursements are approved."
+      }
+    ]
+  },
+  {
+    "ID": 178,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The Attorney General and the Secretary of Homeland Security shall take all appropriate action to jointly establish Homeland Security Task Forces (HSTFs) in all States nationwide.",
+        "reasoning": "This sentence mandates the establishment of new federal-state task forces across the country, creating new institutional structures."
+      },
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 13993 of January 20, 2021 (Revision of Civil Immigration Enforcement Policies and Priorities), Executive Order 14010 of February 2, 2021 (Creating a Comprehensive Regional Framework To Address the Causes of Migration, To Manage Migration Throughout North and Central America, and To Provide Safe and Orderly Processing of Asylum Seekers at the United States Border), Executive Order 14011 of February 2, 2021 (Establishment of Interagency Task Force on the Reunification of Families), and Executive Order 14012 of February 2, 2021 (Restoring Faith in Our Legal Immigration Systems and Strengthening Integration and Inclusion Efforts for New Americans) are hereby revoked;",
+        "reasoning": "The order explicitly revokes previous executive orders, including one that established an Interagency Task Force, thereby abolishing that entity."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "To ensure State and local law enforcement agencies across the United States can assist with the protection of the American people, the Secretary of Homeland Security shall, to the maximum extent permitted by law...take appropriate action, through agreements under section 287(g) of the INA...to authorize State and local law enforcement officials...to perform the functions of immigration officers...",
+        "reasoning": "This section reallocates federal immigration enforcement functions to authorized state and local law enforcement officials, changing jurisdictional responsibilities."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of Homeland Security shall direct the Director of U.S. Immigration and Customs Enforcement (ICE) to take all appropriate and lawful action to reestablish within ICE an office to provide proactive, timely, adequate, and professional services to victims of crimes committed by removable aliens, and those victims’ family members.",
+        "reasoning": "This directive reconfigures the internal structure of ICE by mandating the reestablishment of a specific office with a defined mission."
+      }
+    ]
+  },
+  {
+    "ID": 160,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established within the National Economic Council the President’s Working Group on Digital Asset Markets (Working Group).",
+        "reasoning": "This sentence explicitly establishes a new entity, the President's Working Group on Digital Asset Markets, to develop policy recommendations."
+      },
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 14067 of March 9, 2022 (Ensuring Responsible Development of Digital Assets) is hereby revoked.",
+        "reasoning": "The order revokes a prior executive order, which is a form of abolishing the policy framework and any structures created under it."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Except to the extent required by law, agencies are hereby prohibited from undertaking any action to establish, issue, or promote CBDCs within the jurisdiction of the United States or abroad. Except to the extent required by law, any ongoing plans or initiatives at any agency related to the creation of a CBDC within the jurisdiction of the United States shall be immediately terminated...",
+        "reasoning": "This reconfigures agency operations by prohibiting and terminating all activities related to the development of a Central Bank Digital Currency (CBDC)."
+      }
+    ]
+  },
+  {
+    "ID": 112,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Plan shall require that each agency hire no more than one employee for every four employees that depart, consistent with the plan and any applicable exemptions and details provided for in the Plan... Agency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law... Within 30 days of the date of this order, the Director of the Office of Personnel Management (OPM) shall initiate a rulemaking that proposes to revise 5 C.F.R. 731.202(b) to include additional suitability criteria...",
+        "reasoning": "This order fundamentally reconfigures personnel systems by instituting a hiring ratio, mandating preparations for reductions in force, and revising employee suitability criteria."
+      }
+    ]
+  },
+  {
+    "ID": 177,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "In addition to the actions outlined in subsection (a) of this section, the Secretary of the Interior shall exercise all lawful authority and discretion available to him and take all necessary steps to: (i) withdraw Secretarial Order 3401 dated June 1, 2021 (Comprehensive Analysis and Temporary Halt on All Activities in the Arctic National Wildlife Refuge Relating to the Coastal Plain Oil and Gas Leasing Program);",
+        "reasoning": "This order abolishes a prior Secretarial Order that halted activities in the Arctic National Wildlife Refuge, thereby terminating that policy structure."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The heads of all executive departments and agencies, including but not limited to the Secretary of the Interior; the Secretary of Commerce... and the Secretary of the Army... shall exercise all lawful authority and discretion available to them and take all necessary steps to: (i) rescind, revoke, revise, amend, defer, or grant exemptions from any and all regulations, orders, guidance documents, policies, and any other similar agency actions that are inconsistent with the policy set forth in section 2 of this order...",
+        "reasoning": "The order mandates a comprehensive review and revision of all agency actions that impede resource development in Alaska, which constitutes a significant reconfiguration of regulatory and operational mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 19,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "In conjunction with the formulation of the President’s Budget, the OMB Director shall, in coordination with the Secretary of Transportation, develop a legislative proposal, which shall be described in detail in the MAP, to establish a Maritime Security Trust Fund that can serve as a reliable funding source to deliver consistent support for MAP programs.",
+        "reasoning": "The order directs the development of a proposal to establish a new Maritime Security Trust Fund, which qualifies as the creation of a new institutional entity."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 90 days of the date of this order, the Secretary of Defense, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, and the Director of the National Science Foundation shall develop a proposal for improved acquisition strategies processes for United States Government vessels and submit such proposal to APNSA and the OMB Director for inclusion in the MAP.",
+        "reasoning": "This section mandates the creation of new and improved acquisition processes for government vessels, which is a direct reconfiguration of internal procurement mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 197,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 14003 of January 22, 2021 (Protecting the Federal Workforce), is hereby revoked, and any rules, regulations, guidance, or other agency policies effectuated under Executive Order 14003 shall not be enforced.",
+        "reasoning": "The order explicitly revokes a prior executive order, thereby abolishing the policies and frameworks established by it."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Executive Order 13957 of October 21, 2020 (Creating Schedule F in the Excepted Service), is hereby immediately reinstated with full force and effect... The Director of the Office of Personnel Management (Director) shall promptly amend the Civil Service Regulations to rescind all changes made by the final rule of April 9, 2024, “Upholding Civil Service Protections and Merit System Principles,”...",
+        "reasoning": "This order reinstates a prior executive order creating a new employee schedule (Schedule F, renamed Policy/Career) and directs changes to Civil Service Regulations, fundamentally reconfiguring the federal personnel system."
+      }
+    ]
+  },
+  {
+    "ID": 88,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Each Agency Head shall, with assistance as requested from the agency’s DOGE Team Lead, build a centralized technological system within the agency to seamlessly record every payment issued by the agency pursuant to each of the agency’s covered contracts and grants, along with a brief, written justification for each payment submitted by the agency employee who approved the payment.",
+        "reasoning": "The order mandates the creation of new technological systems and processes for justifying and recording payments, which reconfigures agency procurement and financial management procedures."
+      }
+    ]
+  },
+  {
+    "ID": 123,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established within the Department of Justice the Task Force to Eradicate Anti-Christian Bias (Task Force).",
+        "reasoning": "This sentence explicitly establishes a new task force within the Department of Justice, creating a new government body to address a specific policy issue."
+      }
+    ]
+  },
+  {
+    "ID": 144,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The President’s Advisory 1776 Commission (“1776 Commission”), which was created by Executive Order 13958 of November 2, 2020, to promote patriotic education, but was terminated by President Biden in Executive Order 13985 of January 20, 2021, is hereby reestablished.",
+        "reasoning": "This sentence explicitly reestablishes the 1776 Commission, which constitutes the creation of a government advisory body."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Ending Indoctrination Strategy submitted under subsection (a) of this section shall contain a summary and analysis of the following: (i) All Federal funding sources and streams, including grants or contracts, that directly or indirectly support or subsidize the instruction, advancement, or promotion of gender ideology or discriminatory equity ideology... (ii) Each agency’s process to prevent or rescind Federal funds, to the maximum extent consistent with applicable law, from being used by an ESA, SEA, LEA, elementary school, or secondary school to directly or indirectly support or subsidize the instruction, advancement, or promotion of gender ideology or discriminatory equity ideology...",
+        "reasoning": "The order mandates a new strategy and process for reviewing and potentially rescinding federal funding to educational institutions based on curriculum content, which reconfigures grant-making and oversight mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 46,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Secretary of Transportation is therefore delegated authority under section 7103(b) of title 5, United States Code, to issue orders excluding any subdivision of the Department of Transportation, including the Federal Aviation Administration, from Federal Service Labor-Management Relations Statute coverage or suspending any provision of that law with respect to any Department of Transportation installation or activity located outside the 50 States and the District of Columbia.",
+        "reasoning": "This provision delegates authority from the President to the Secretary of Transportation to make national security exclusions regarding labor-management relations, reallocating decision-making power."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The agencies and agency subdivisions set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of title 5, United States Code, cannot be applied to these agencies and agency subdivisions in a manner consistent with national security requirements and considerations.",
+        "reasoning": "This order reconfigures the personnel system by broadly exempting numerous agencies and subdivisions from federal labor-management relations statutes, altering employee and management rights and procedures."
+      }
+    ]
+  },
+  {
+    "ID": 93,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The United States will create an expedited “fast-track” process, based on objective standards, to facilitate greater investment from specified allied and partner sources in United States businesses involved with United States advanced technology and other important areas... My Administration will also expedite environmental reviews for any investment over $1 billion in the United States... My Administration will cease the use of overly bureaucratic, complex, and open-ended “mitigation” agreements for United States investments from foreign adversary countries.",
+        "reasoning": "This memorandum reconfigures investment review and approval processes by creating a new 'fast-track' system, expediting environmental reviews, and altering the use of mitigation agreements."
+      }
+    ]
+  },
+  {
+    "ID": 95,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The non-statutory components and functions of the following governmental entities shall be eliminated to the maximum extent consistent with applicable law... (i) the Presidio Trust; (ii) the Inter-American Foundation; (iii) the United States African Development Foundation; and (iv) the United States Institute of Peace... The Director of the Office of Personnel Management (OPM Director) is directed to initiate the process to withdraw the regulations at title 5, part 960, Code of Federal Regulations, thereby eliminating the Federal Executive Boards... The OPM Director is directed to initiate the process to withdraw the regulations at title 5, part 362, subpart D, Code of Federal Regulations, and to take any other steps necessary to promptly terminate the Presidential Management Fellows Program.",
+        "reasoning": "The order directs the elimination of specific government entities, boards, and programs, which is a clear act of agency abolition."
+      }
+    ]
+  },
+  {
+    "ID": 107,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established the President’s Make America Healthy Again Commission (Commission), chaired by the Secretary of Health and Human Services (Chair), with the Assistant to the President for Domestic Policy serving as Executive Director (Executive Director).",
+        "reasoning": "This sentence explicitly establishes a new presidential commission to study health issues and recommend policy, creating a new government advisory body."
+      }
+    ]
+  },
+  {
+    "ID": 158,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established the President’s Council of Advisors on Science and Technology (PCAST).",
+        "reasoning": "This sentence explicitly establishes the President’s Council of Advisors on Science and Technology (PCAST), creating a new advisory council."
+      },
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 14007 of January 27, 2021 (President’s Council of Advisors on Science and Technology), as amended by Executive Order 14109 of September 29, 2023 (Continuance of Certain Federal Advisory Committees and Amendments to Other Executive Orders), is hereby revoked.",
+        "reasoning": "The order revokes the previous executive order that established the prior version of the President's Council of Advisors on Science and Technology, abolishing that specific iteration of the council."
+      }
+    ]
+  },
+  {
+    "ID": 96,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Agency heads shall, in coordination with their DOGE Team Leads and the Director of the Office of Management and Budget, initiate a process to review all regulations subject to their sole or joint jurisdiction for consistency with law and Administration policy... The Administrator of OIRA shall consult with agency heads to develop a Unified Regulatory Agenda that seeks to rescind or modify these regulations, as appropriate... Subject to their paramount obligation to discharge their legal obligations, protect public safety, and advance the national interest, agencies shall preserve their limited enforcement resources by generally de-prioritizing actions to enforce regulations that are based on anything other than the best reading of a statute...",
+        "reasoning": "This order reconfigures the government's regulatory and enforcement procedures by establishing a new process for reviewing, rescinding, and de-prioritizing enforcement of existing regulations."
+      }
+    ]
+  },
+  {
+    "ID": 155,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established the Federal Emergency Management Agency Review Council (“Council”).",
+        "reasoning": "This sentence explicitly establishes the Federal Emergency Management Agency Review Council, creating a new advisory body to assess FEMA."
+      }
+    ]
+  },
+  {
+    "ID": 100,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "Moreover, all executive departments and agencies, including so-called independent agencies, shall submit for review all proposed and final significant regulatory actions to the Office of Information and Regulatory Affairs (OIRA) within the Executive Office of the President before publication in theFederal Register.",
+        "reasoning": "The order reallocates oversight authority by requiring previously exempt independent regulatory agencies to submit significant regulatory actions to OIRA for review."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Director of OMB shall establish performance standards and management objectives for independent agency heads, as appropriate and consistent with applicable law, and report periodically to the President on their performance and efficiency in attaining such standards and objectives... The heads of independent regulatory agencies shall establish a position of White House Liaison in their respective agencies.",
+        "reasoning": "This order reconfigures the oversight and personnel structure of independent agencies by imposing new OMB-set performance standards and requiring the creation of a White House Liaison position."
+      }
+    ]
+  },
+  {
+    "ID": 86,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 180 days of the date of this order, the Secretary of the Interior and the Secretary of Agriculture shall consider and, if appropriate and consistent with applicable law, adopt categorical exclusions administratively established by other agencies to comply with the National Environmental Policy Act and reduce unnecessarily lengthy processes and associated costs related to administrative approvals for timber production, forest management, and wildfire risk reduction treatments.",
+        "reasoning": "This order directs agencies to adopt new categorical exclusions and streamline permitting for timber production, which constitutes a reconfiguration of internal environmental review and approval processes."
+      }
+    ]
+  },
+  {
+    "ID": 173,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "These Executive Orders are hereby rescinded, and the White House Gender Policy Council established by Executive Order 14020 is dissolved.",
+        "reasoning": "The order explicitly rescinds prior executive orders and dissolves the White House Gender Policy Council, which is a direct act of agency abolition."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Under my direction, the Executive Branch will enforce all sex-protective laws to promote this reality, and the following definitions shall govern all Executive interpretation of and application of Federal law and administration policy: (a) “Sex” shall refer to an individual’s immutable biological classification as either male or female... The Secretaries of State and Homeland Security, and the Director of the Office ofPersonnel Management, shall implement changes to require that government-issued identification documents, including passports, visas, and Global Entry cards, accurately reflect the holder’s sex, as defined under section 2 of this order...",
+        "reasoning": "The order mandates a government-wide change in the definition of 'sex' for all federal laws and policies and requires corresponding changes to official documents, reconfiguring operational procedures and standards across agencies."
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of Commerce, in consultation with the Secretary of Health and Human Services and with input from the United States fishing industry, shall immediately consider suspending, revising, or rescinding regulations that overly burden America’s commercial fishing, aquaculture, and fish processing industries at the fishery-specific level.",
+        "reasoning": "This order mandates a comprehensive review and potential overhaul of regulations governing the fishing industry, which constitutes a significant reconfiguration of the existing regulatory framework."
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 60 days of the date of this order, the Secretary of Health and Human Services (Secretary), consistent with sections 1191 to 1198 of the Social Security Act (42 U.S.C. 1320f-1320f-7) and other applicable law, shall propose and seek comment on guidance for the Medicare Drug Price Negotiation Program for initial price applicability year 2028 and manufacturer effectuation of maximum fair price under such program in 2026, 2027, and 2028.",
+        "reasoning": "The order directs the Secretary of HHS to propose new guidance to change the operational rules of the Medicare Drug Price Negotiation Program, reconfiguring its implementation."
+      }
+    ]
+  },
+  {
+    "ID": 174,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The United States Digital Service is hereby publicly renamed as the United States DOGE Service (USDS) and shall be established in the Executive Office of the President... There is further established within USDS, in accordance with section 3161 of title 5, United States Code, a temporary organization known as “the U.S. DOGE Service Temporary Organization”... In consultation with USDS, each Agency Head shall establish within their respective Agencies a DOGE Team of at least four employees...",
+        "reasoning": "The order establishes multiple new entities: the USDS within the EOP, a temporary DOGE organization, and DOGE Teams within each agency."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "Agency Heads shall take all necessary steps, in coordination with the USDS Administrator and to the maximum extent consistent with law, to ensure USDS has full and prompt access to all unclassified agency records, software systems, and IT systems.",
+        "reasoning": "This provision reallocates the domain of information access, giving the newly created USDS broad jurisdiction over records and systems across other agencies."
+      }
+    ]
+  },
+  {
+    "ID": 193,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The Secretary of the Treasury, in consultation with the Secretary of Commerce and the Secretary of Homeland Security, shall investigate the feasibility of establishing and recommend the best methods for designing, building, and implementing an External Revenue Service (ERS) to collect tariffs, duties, and other foreign trade-related revenues.",
+        "reasoning": "The memorandum directs the investigation and potential establishment of a new agency, the External Revenue Service (ERS)."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The United States Trade Representative shall commence the public consultation process set out in section 4611(b) of title 19, United States Code, with respect to the United States-Mexico-Canada Agreement (USMCA) in preparation for the July 2026 review of the USMCA.",
+        "reasoning": "This directive initiates a formal review process for a major trade agreement, reconfiguring the timeline and procedures for its assessment and potential modification."
+      }
+    ]
+  },
+  {
+    "ID": 63,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 1,
+        "type_name": "Agency Consolidation",
+        "evidence": "Within 90 days of the date of this order, the Administrator shall submit a comprehensive plan to the Director of OMB for the General Services Administration to procure common goods and services across the domestic components of the Government, where permitted by law.",
+        "reasoning": "The order directs the consolidation of procurement for common goods and services from various agencies into the General Services Administration."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "Within 30 days of the date of this order, pursuant to the authority in 40 U.S.C. 11302(e), the Director of OMB shall designate the Administrator as the executive agent for all Government-wide acquisition contracts for information technology.",
+        "reasoning": "This section reallocates the jurisdictional authority for all government-wide IT acquisition contracts to the Administrator of General Services."
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Whenever an agency proposes to solicit a non-commercial product or service, the applicable contracting officer shall provide the agency’s approval authority with a description of the proposed procurement, which shall include the specific reasons a non‑commercial product or service is required, including all market research and price analysis in support of the proposed solicitation for such product or service. The approval authority shall review and approve or deny the proposal in writing.",
+        "reasoning": "This order establishes a new, mandatory review and approval process for all non-commercial procurements, reconfiguring the internal mechanisms of agency contracting."
+      }
+    ]
+  },
+  {
+    "ID": 52,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, the Election Assistance Commission shall take appropriate action to require, in its national mail voter registration form issued under 52 U.S.C. 20508: (A) documentary proof of United States citizenship, consistent with 52 U.S.C. 20508(b)(3);",
+        "reasoning": "This order reconfigures the federal voter registration process by mandating the inclusion of a proof of citizenship requirement on the national mail voter registration form."
+      }
+    ]
+  },
+  {
+    "ID": 184,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the signing of this memorandum, the Director of the Office of Personnel Management (OPM), in coordination with the Director of the Office of Management and Budget (OMB), shall issue SES Performance Plans that agencies must adopt;... Each agency head should terminate its existing Executive Resources Board (ERB), institute a new or interim ERB, and assign senior noncareer officials to chair and serve on the board as a majority alongside career members; and Each agency head should terminate its existing Performance Review Board membership and re-constitute membership...",
+        "reasoning": "The memorandum mandates new performance plans for Senior Executive Service (SES) officials and the reconstitution of Executive Resources Boards and Performance Review Boards, which are significant reconfigurations of personnel management and oversight systems."
+      }
+    ]
+  },
+  {
+    "ID": 22,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "To the extent consistent with applicable law, each of the Covered Agencies shall issue a sunset rule, effective not later than September 30, 2025, that inserts a Conditional Sunset Date into each of their Covered Regulations.",
+        "reasoning": "This order reconfigures the regulatory process for specific agencies by mandating the inclusion of automatic expiration dates ('sunset provisions') in their energy-related regulations."
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "Within 15 days of the date of this memorandum, the Chairman of CEQ shall establish and lead an interagency Permitting Innovation Center that will design and test prototype tools that could be implemented pursuant to the Permitting Technology Action Plan for NEPA reviews and other environmental permits and authorizations.",
+        "reasoning": "The memorandum explicitly directs the establishment of a new interagency Permitting Innovation Center, creating a new government body."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 45 days of the date of this memorandum, the Chairman of the Council on Environmental Quality (CEQ), in consultation with the National Energy Dominance Council and relevant permitting agencies, shall issue a Permitting Technology Action Plan for modernizing the technology used for Federal permitting and environmental review processes for infrastructure projects.",
+        "reasoning": "The directive to create a 'Permitting Technology Action Plan' to modernize and create unified data systems for environmental reviews constitutes a significant reconfiguration of the government's permitting process."
+      }
+    ]
+  },
+  {
+    "ID": 40,
+    "is_reorganization": false,
+    "analysis": []
+  },
+  {
+    "ID": 64,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Chief Executive Officer (CEO) of the United States International Development Finance Corporation (DFC) the authority of the President conferred by sections 301, 302, and 303 of the DPA (50 U.S.C. 4531, 4532, and 4533), and the authority to implement the DPA in 50 U.S.C. 4554, 4555, 4556, and 4560.",
+        "reasoning": "This section explicitly delegates presidential authorities under the Defense Production Act to the CEO of the DFC, reallocating operational authority for certain national security-related financial activities."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Agencies that are empowered to make loans, loan guarantees, grants, equity investments, or to conclude offtake agreements to advance national security in securing vital mineral supply chains, both domestically and abroad, shall, to the extent permitted by law, take steps to rescind any policies that require an applicant to complete and submit to the agency as part of an an application for such funds the disclosures that are required by Regulation S-K part 1300.",
+        "reasoning": "This order reconfigures the application process for federal financial assistance by directing agencies to rescind specific disclosure requirements, altering a key operational mechanism for loans and grants."
+      }
+    ]
+  },
+  {
+    "ID": 166,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 11246 of September 24, 1965 (Equal Employment Opportunity), is hereby revoked.",
+        "reasoning": "The order explicitly revokes a prior, long-standing executive order, thereby abolishing the specific affirmative action framework it established for federal contractors."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Office of Federal Contract Compliance Programs within the Department of Labor shall immediately cease: (A) Promoting “diversity”; (B) Holding Federal contractors and subcontractors responsible for taking “affirmative action”; and (C) Allowing or encouraging Federal contractors and subcontractors to engage in workforce balancing based on race, color, sex, sexual preference, religion, or national origin.",
+        "reasoning": "This section fundamentally reconfigures the operational mission and enforcement mechanisms of the Office of Federal Contract Compliance Programs, changing its core procedures."
+      }
+    ]
+  },
+  {
+    "ID": 106,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established within the Executive Office of the President the National Energy Dominance Council (Council).",
+        "reasoning": "This sentence explicitly establishes the National Energy Dominance Council, creating a new high-level interagency body within the EOP."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of the Interior, as Chair of the Council, shall serve as a standing member of the National Security Council.",
+        "reasoning": "This provision reconfigures the decision-making structure of the National Security Council by adding the Secretary of the Interior as a new standing member."
+      }
+    ]
+  },
+  {
+    "ID": 108,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary shall, consistent with applicable law, implement reforms in recruiting, performance, evaluation, and retention standards, and the programs of the Foreign Service Institute, to ensure a workforce that is committed to faithful implementation of the President’s foreign policy.",
+        "reasoning": "This order mandates comprehensive reforms to the personnel systems of the Foreign Service, including recruiting, evaluation, and retention standards, which is a direct reconfiguration of its institutional mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 79,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, the Director of National Intelligence, and all other relevant heads of executive departments and agencies (agencies) shall immediately take steps consistent with applicable law to suspend any active security clearances held by individuals at Perkins Coie, pending a review of whether such clearances are consistent with the national interest... Government contracting agencies shall, to the extent permissible by law, require Government contractors to disclose any business they do with Perkins Coie and whether that business is related to the subject of the Government contract.",
+        "reasoning": "This order reconfigures government procedures for security clearances and contracting by targeting a specific private entity, mandating new disclosure requirements for contractors and initiating a review of clearances."
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 180 days of the date of this order, the Administrator, in coordination with the other members of the Federal Acquisition Regulatory Council (FAR Council), the heads of agencies, and appropriate senior acquisition and procurement officials from agencies, shall take appropriate actions to amend the FAR to ensure that it contains only provisions that are required by statute or that are otherwise necessary to support simplicity and usability, strengthen the efficacy of the procurement system, or protect economic or national security interests.",
+        "reasoning": "The order mandates a comprehensive amendment of the Federal Acquisition Regulation (FAR), which constitutes a fundamental reconfiguration of the government's procurement process."
+      }
+    ]
+  },
+  {
+    "ID": 172,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "terminate, to the maximum extent allowed by law, all DEI, DEIA, and “environmental justice” offices and positions (including but not limited to “Chief Diversity Officer” positions); all “equity action plans,” “equity” actions, initiatives, or programs, “equity-related” grants or contracts; and all DEI or DEIA performance requirements for employees, contractors, or grantees.",
+        "reasoning": "The order mandates the termination of all DEI, DEIA, and environmental justice offices, positions, and programs across the federal government, which is a direct act of agency abolition."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Director of OPM, with the assistance of the Attorney General as requested, shall review and revise, as appropriate, all existing Federal employment practices, union contracts, and training policies or programs to comply with this order. Federal employment practices, including Federal employee performance reviews, shall reward individual initiative, skills, performance, and hard work and shall not under any circumstances consider DEI or DEIA factors, goals, policies, mandates, or requirements.",
+        "reasoning": "This provision reconfigures federal personnel systems by revising all employment practices, contracts, and performance reviews to eliminate DEI-related factors."
+      }
+    ]
+  },
+  {
+    "ID": 48,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, the Director of National Intelligence, and all other relevant heads of executive departments and agencies (agencies) shall immediately take steps consistent with applicable law to suspend any active security clearances held by individuals at WilmerHale, pending a review of whether such clearances are consistent with the national interest... To prevent the transfer of taxpayer dollars to Federal contractors whose earnings subsidize, among other things, activities that are not aligned with American interests, including racial discrimination, Government contracting agencies shall, to the extent permissible by law, require Government contractors to disclose any business they do with WilmerHale...",
+        "reasoning": "This order reconfigures security clearance and procurement procedures by directing actions against a specific private law firm, including suspending clearances and imposing new disclosure requirements on contractors."
+      }
+    ]
+  },
+  {
+    "ID": 67,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 180 days of the date of this order, the APNSA, in coordination with the Director of the Office of Science and Technology Policy and the heads of relevant agencies, shall review all critical infrastructure policies and recommend to the President the revisions, recissions, and replacements necessary to achieve a more resilient posture; shift from an all-hazards approach to a risk-informed approach; move beyond information sharing to action; and implement the National Resilience Strategy...",
+        "reasoning": "The order mandates a comprehensive review and revision of all national critical infrastructure, continuity, and preparedness policies, fundamentally reconfiguring the government's approach to these areas."
+      }
+    ]
+  },
+  {
+    "ID": 128,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of the Treasury shall: (i) immediately impose sanctions or appropriate enforcement remedies on all persons for which the Department has evidence of activity in violation of one or more Iran-related sanctions; (ii) implement a robust and continual sanctions enforcement campaign with respect to Iran that denies the regime and its terror proxies access to revenue; (iii) review for modification or rescission any general license, frequently asked question, or other guidance that provides Iran or any of its terror proxies any degree of economic or financial relief;",
+        "reasoning": "This memorandum reconfigures the operational mechanisms of the Iran sanctions program by directing immediate and continuous enforcement, review and rescission of licenses, and updated guidance, altering existing decision-making and implementation procedures."
+      }
+    ]
+  },
+  {
+    "ID": 188,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary shall, consistent with applicable law, issue new policy guidance or propose regulations regarding the appropriate and consistent use of lawful detention authority under the INA, including the termination of the practice commonly known as “catch-and-release,”... As soon as practicable, the Secretary of Homeland Security... shall take all appropriate action to resume the Migrant Protection Protocols... Cease using the “CBP One” application as a method of paroling or facilitating the entry of otherwise inadmissible aliens into the United States;",
+        "reasoning": "This order reconfigures border security operations by terminating the 'catch-and-release' policy, resuming the Migrant Protection Protocols, and ending the use of the CBP One app for parole."
+      }
+    ]
+  },
+  {
+    "ID": 45,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "My Administration shall work closely with local officials to share information, develop joint priorities, and maximize resources to make the District of Columbia safe. Such coordination shall occur through the D.C. Safe and Beautiful Task Force (Task Force), which is hereby established by this order.",
+        "reasoning": "This sentence explicitly establishes the D.C. Safe and Beautiful Task Force, creating a new interagency body."
+      }
+    ]
+  },
+  {
+    "ID": 17,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, the Director of National Intelligence, and all other relevant heads of executive departments and agencies (agencies) shall immediately take steps consistent with applicable law to suspend any active security clearances held by individuals at Susman, pending a review of whether such clearances are consistent with the national interest... Government contracting agencies shall, to the extent permissible by law, require Government contractors to disclose any business they do with Susman and whether that business is related to the subject of the Government contract.",
+        "reasoning": "This order reconfigures security clearance and government contracting procedures by directing specific actions against a private law firm, instituting new disclosure and review processes."
+      }
+    ]
+  },
+  {
+    "ID": 76,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established the White House Task Force on the FIFA World Cup 2026 (Task Force).",
+        "reasoning": "This sentence explicitly establishes a new White House task force to coordinate government efforts for a specific event."
+      }
+    ]
+  },
+  {
+    "ID": 198,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 13987 of January 25, 2021 (Organizing and Mobilizing the United States Government to Provide a Unified and Effective Response to Combat COVID–19 and to Provide United States Leadership on Global Health and Security), is revoked.",
+        "reasoning": "The order explicitly revokes a prior executive order, thereby abolishing the organizational and mobilization framework it established."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Assistant to the President for National Security Affairs shall establish directorates and coordinating mechanisms within the National Security Council apparatus as he deems necessary and appropriate to safeguard public health and fortify biosecurity.",
+        "reasoning": "This provision directs the creation of new directorates and coordinating mechanisms within the NSC, which reconfigures its internal operational structure."
+      }
+    ]
+  },
+  {
+    "ID": 143,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is hereby established the White House Task Force on Celebrating America’s 250th Birthday (Task Force 250).",
+        "reasoning": "This sentence explicitly establishes a new White House task force, creating a new governmental body for a specific purpose."
+      },
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 13934 of July 3, 2020 (Building and Rebuilding Monuments to American Heroes) and Executive Order 13978 of January 18, 2021 (Building the National Garden of American Heroes) are reinstated as they were prior to issuance of Executive Order 14029 of May 14, 2021.",
+        "reasoning": "By reinstating orders that were revoked by EO 14029, this action implicitly abolishes or reverses the abolition action of EO 14029."
+      }
+    ]
+  },
+  {
+    "ID": 70,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, the Director of National Intelligence, and all other relevant heads of executive departments and agencies (agencies) shall immediately take steps consistent with applicable law to suspend any active security clearances held by individuals at Paul Weiss and Mark Pomerantz, pending a review of whether such clearances are consistent with the national interest... Government contracting agencies shall, to the extent permissible by law, require Government contractors to disclose any business they do with Paul Weiss and whether that business is related to the subject of the Government contract.",
+        "reasoning": "This order reconfigures government procedures for security clearances and contracting by targeting a specific private entity and individual, mandating new disclosure requirements and reviews."
+      }
+    ]
+  },
+  {
+    "ID": 180,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "This directive shall supersede all other existing Presidential directives and guidance on the organization or support of the NSC and the HSC where they conflict, including National Security Memorandum–2 of February 4, 2021 (Memorandum on Renewing the National Security Council System), which is hereby revoked.",
+        "reasoning": "This sentence explicitly revokes the preceding National Security Memorandum on the same topic, thereby abolishing the previous organizational structure."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Homeland Security Council (HSC) has the distinct purpose of advising the President on matters pertaining to homeland security. The NSC shall convene as the HSC on topic areas agreed to in advance by the Assistant to the President for National Security Affairs (National Security Advisor) and the Assistant to the President for Homeland Security (Homeland Security Advisor)... Management of the development and implementation of national security policies by multiple Executive departments and agencies typically shall be accomplished by Policy Coordination Committees (PCCs), with participation primarily occurring at the Assistant Secretary level.",
+        "reasoning": "The memorandum reconfigures the national security decision-making process by defining how the NSC and HSC interact and by establishing Policy Coordination Committees (PCCs) as the primary fora for interagency coordination."
+      }
+    ]
+  },
+  {
+    "ID": 77,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "The Secretary of the Treasury shall establish an office to administer and maintain control of custodial accounts collectively known as the “Strategic Bitcoin Reserve,”... The Secretary of the Treasury shall establish an office to administer and maintain control of custodial accounts collectively known as the “United States Digital Asset Stockpile,”...",
+        "reasoning": "The order explicitly directs the Secretary of the Treasury to establish two new offices to manage the Strategic Bitcoin Reserve and the United States Digital Asset Stockpile."
+      }
+    ]
+  },
+  {
+    "ID": 171,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 120 days of the date of this order, the Assistant to the President for Domestic Policy, in consultation with the Director of the Office of Management and Budget, the Director of the Office of Personnel Management, and the Administrator of the Department of Government Efficiency (DOGE), shall develop and send to agency heads a Federal Hiring Plan that brings to the Federal workforce only highly skilled Americans dedicated to the furtherance of American ideals, values, and interests.",
+        "reasoning": "This order mandates the creation of a new, comprehensive Federal Hiring Plan designed to overhaul government-wide hiring practices, which is a fundamental reconfiguration of the personnel system."
+      }
+    ]
+  },
+  {
+    "ID": 23,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of State and the Secretary of Defense shall review and update the list of defense items that can only be purchased through the FMS process (the FMS-Only List) and the United States Munitions List, 22 C.F.R. part 121, to focus protections solely on our most sensitive and sophisticated technologies, and shall establish clear criteria for including an item on the FMS-Only List.",
+        "reasoning": "The order mandates a review and update of the FMS-Only and Munitions lists and the creation of new criteria, reconfiguring the rules and decision-making procedures that govern foreign military sales."
+      }
+    ]
+  },
+  {
+    "ID": 51,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, the Director of National Intelligence, and all other relevant heads of executive departments and agencies (agencies) shall immediately take steps consistent with applicable law to suspend any active security clearances held by individuals at Jenner pending a review of whether such clearances are consistent with the national interest... Government contracting agencies shall, to the extent permissible by law, require Government contractors to disclose any business they do with Jenner and whether that business is related to the subject of the Government contract.",
+        "reasoning": "This order reconfigures security clearance and procurement procedures by directing actions against a specific private entity, which alters normal operational processes for a targeted purpose."
+      }
+    ]
+  },
+  {
+    "ID": 196,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Effective immediately, the Director of National Intelligence, in consultation with the Director of the Central Intelligence Agency, shall revoke any current or active clearances held by the following individuals: (1) James R. Clapper Jr. ... (50) John R. Bolton",
+        "reasoning": "The order directs the revocation of security clearances for a specific list of individuals, which is a direct action reconfiguring their status and access within the national security system."
+      }
+    ]
+  },
+  {
+    "ID": 122,
+    "is_reorganization": false,
+    "analysis": []
+  },
+  {
+    "ID": 94,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The United States Trade Representative, in consultation with the Secretary of Commerce and the Senior Counselor to the President for Trade and Manufacturing, shall establish a process that allows American businesses to report to the United States Trade Representative foreign tax or regulatory practices that disproportionately harm United States companies.",
+        "reasoning": "This directive establishes a new formal process for businesses to report grievances, which reconfigures the information-gathering and operational mechanisms of the USTR."
+      }
+    ]
+  },
+  {
+    "ID": 195,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Proclamation 10142 of January 20, 2021 (Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction), is hereby revoked.",
+        "reasoning": "The proclamation explicitly revokes a prior proclamation, abolishing the legal and policy framework it had established."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Secretary of Defense, or the Secretary of each relevant military department, as appropriate and consistent with applicable law, shall order as many units or members of the Armed Forces, including the Ready Reserve and the National Guard, as the Secretary of Defense determines to be appropriate to support the activities of the Secretary of Homeland Security in obtaining complete operational control of the southern border of the United States.",
+        "reasoning": "This section reallocates military personnel and resources to support the operational domain of the Department of Homeland Security at the border."
+      }
+    ]
+  },
+  {
+    "ID": 61,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "Agency Heads shall take all necessary steps, to the maximum extent consistent with law, to ensure Federal officials designated by the President or Agency Heads (or their designees) have full and prompt access to all unclassified agency records, data, software systems, and information technology systems...",
+        "reasoning": "The order reallocates the jurisdictional domain over information by mandating that designated officials be granted access to data and systems across different agencies."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, Agency Heads shall, to the maximum extent consistent with law, rescind or modify all agency guidance that serves as a barrier to the inter- or intra-agency sharing of unclassified information specified in subsection (a) of this section.",
+        "reasoning": "This provision reconfigures internal agency operations by mandating the rescission or modification of guidance documents to change data sharing procedures."
+      }
+    ]
+  },
+  {
+    "ID": 55,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Effective September 30, 2025, and to the extent permitted by law, the Secretary of the Treasury shall cease issuing paper checks for all Federal disbursements inclusive of intragovernmental payments, benefits payments, vendor payments, and tax refunds, except as specified in section 4 of this order.",
+        "reasoning": "The order mandates a government-wide shift from paper-based to electronic payments and receipts, which is a major reconfiguration of the federal financial management and disbursement system."
+      }
+    ]
+  },
+  {
+    "ID": 87,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Executive Order 13166 of August 11, 2000 (Improving Access to Services for Persons with Limited English Proficiency), is hereby revoked;",
+        "reasoning": "The order explicitly revokes a prior executive order, thereby abolishing the policy framework and requirements it had established for agencies."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "English is the official language of the United States.",
+        "reasoning": "Designating an official language reconfigures government operations by setting a default standard for official communications and documentation, even while allowing for exceptions."
+      }
+    ]
+  },
+  {
+    "ID": 115,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The Director of the Office of Personnel Management shall take all necessary steps to eliminate the Federal Executive Institute, in accordance with applicable law.",
+        "reasoning": "This sentence explicitly directs the elimination of the Federal Executive Institute, which is a clear act of agency abolition."
+      }
+    ]
+  },
+  {
+    "ID": 154,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Secretary of the Interior and the Secretary of Commerce shall immediately take actions to override existing activities that unduly burden efforts to maximize water deliveries.",
+        "reasoning": "The order reallocates authority to the Secretaries of the Interior and Commerce to override other existing activities, presumably from other federal or state entities, changing the jurisdictional power structure over water deliveries."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Director of the Office of Management and Budget (OMB) shall review all Federal programs, projects, and activities for all relevant agencies that impact land management, water availability, water supply, water storage and delivery, water infrastructure, and disaster preparedness and response.",
+        "reasoning": "This order establishes a new, comprehensive review process led by OMB to assess and recommend changes to federal grants and programs related to disaster prevention, reconfiguring oversight arrangements."
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "is_reorganization": false,
+    "analysis": []
+  },
+  {
+    "ID": 56,
+    "is_reorganization": false,
+    "analysis": []
+  },
+  {
+    "ID": 32,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, the Secretary of Energy shall develop a uniform methodology for analyzing current and anticipated reserve margins for all regions of the bulk power system regulated by the Federal Energy Regulatory Commission and shall utilize this methodology to identify current and anticipated regions with reserve margins below acceptable thresholds as identified by the Secretary of Energy.",
+        "reasoning": "The order mandates the development and use of a new, uniform methodology for analyzing grid reliability, reconfiguring the operational and analytical procedures of the Department of Energy."
+      }
+    ]
+  },
+  {
+    "ID": 146,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The head of each executive department or agency (agency) that provides research or education grants to medical institutions, including medical schools and hospitals, shall, consistent with applicable law and in coordination with the Director of the Office of Management and Budget, immediately take appropriate steps to ensure that institutions receiving Federal research or education grants end the chemical and surgical mutilation of children.",
+        "reasoning": "This order reconfigures the conditions for receiving federal grants by requiring recipient medical institutions to cease specific medical procedures, altering the terms and oversight of federal funding."
+      }
+    ]
+  },
+  {
+    "ID": 148,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The Secretary of Defense and the Secretary of Homeland Security shall abolish every DEI office within the Department of Defense and the Department of Homeland Security with regard to the USCG, respectively, including any vestiges of DEI offices, such as sub-offices, programs, elements, or initiatives established to promote a race-based preferences system...",
+        "reasoning": "This section explicitly mandates the abolition of all DEI offices and related programs within the specified departments, which is a direct act of agency abolition."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Department of Defense and the Armed Forces, including any educational institution operated or controlled thereby, are prohibited from promoting, advancing, or otherwise inculcating the following un-American, divisive, discriminatory, radical, extremist, and irrational theories: (i) 'divisive concepts,'...",
+        "reasoning": "This order reconfigures the operational policies of the DoD and its educational institutions by prohibiting the teaching or promotion of specific concepts, altering curriculum and training standards."
+      }
+    ]
+  },
+  {
+    "ID": 149,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Pursuant to the Executive Order of January 20, 2025 (Initial Rescissions of Harmful Executive Orders and Actions),Executive Order 14004of January 25, 2021 (Enabling All Qualified Americans To Serve Their Country in Uniform), has been revoked. Accordingly, all policies, directives, and guidance issued pursuant to Executive Order 14004 shall be rescinded to the extent inconsistent with the provisions of this order.",
+        "reasoning": "The order confirms the revocation of Executive Order 14004, thereby abolishing the policy framework and associated directives it established."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 60 days of the date of this order, the Secretary of Defense (Secretary) shall update DoDI6130.03Volume 1 (Medical Standards for Military Service: Appointment, Enlistment, or Induction (May 6, 2018), Incorporating Change 5 of May 28, 2024) andDoDI 6130.03 Volume 2(Medical Standards for Military Service: Retention (September 4, 2020), Incorporating Change 1 of June 6, 2022) to reflect the purpose and policy of this Order.",
+        "reasoning": "The order mandates specific updates to Department of Defense Instructions (DoDI) regarding medical standards for service, which constitutes a reconfiguration of military personnel and readiness policies."
+      }
+    ]
+  },
+  {
+    "ID": 163,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, the Secretary of State shall, after consultation with the Director of National Intelligence and the Secretary of the Treasury, submit a report to the President, through the National Security Council, concerning the designation of Ansar Allah as a foreign terrorist organization consistent with 8 U.S.C. 1189.",
+        "reasoning": "This order reconfigures the process for designating a Foreign Terrorist Organization by setting a specific, mandatory timeline and consultation requirement for the Secretary of State to act."
+      }
+    ]
+  },
+  {
+    "ID": 201,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The U.S. International Climate Finance Plan is revoked and rescinded immediately.",
+        "reasoning": "The order explicitly revokes and rescinds the U.S. International Climate Finance Plan, abolishing this specific government program."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The United States Ambassador to the United Nations shall immediately submit formal written notification of the United States’ withdrawal from the Paris Agreement under the United Nations Framework Convention on Climate Change.",
+        "reasoning": "This action reconfigures the United States' international commitments and operational posture regarding climate policy by initiating withdrawal from a major international agreement."
+      }
+    ]
+  },
+  {
+    "ID": 29,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Chair of the National Energy Dominance Council (NEDC) shall designate coal as a “mineral” as defined in section 2 of Executive Order 14241 of March 20, 2025 (Immediate Measures to Increase American Mineral Production), thereby entitling coal to all the benefits of a “mineral” under that order.",
+        "reasoning": "This section reallocates jurisdiction over coal by designating it as a mineral under a separate executive order, subjecting it to the authorities and processes of that order."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 60 days of the date of this order, the heads of all relevant executive departments and agencies (agencies) shall consider revising or rescinding Federal actions identified in subsection (a) of this section consistent with applicable law.",
+        "reasoning": "The order directs a comprehensive review and potential rescission of all federal actions that disfavor coal, reconfiguring the regulatory and policy-making mechanisms across multiple agencies."
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "All language under the section entitled “Management of the Marine National Monument” in Proclamation 9173 is deleted and replaced with the following... Between 50 to 200 nautical miles from the landward boundaries of the Monument, the Secretary of Commerce shall not prohibit commercial fishing within the boundaries of the Monument and the Monument Expansion in those areas where the Monument and Monument Expansion is coterminous with the Exclusive Economic Zone of the United States.",
+        "reasoning": "The proclamation reconfigures the management and operational rules of the Pacific Remote Islands Marine National Monument by lifting the ban on commercial fishing."
+      }
+    ]
+  },
+  {
+    "ID": 69,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "Except as provided in subsection (b) of this section, the non-statutory components and functions of the following governmental entities shall be eliminated to the maximum extent consistent with applicable law, and such entities shall reduce the performance of their statutory functions and associated personnel to the minimum presence and function required by law: (i) the Federal Mediation and Conciliation Service; (ii) the United States Agency for Global Media; (iii) the Woodrow Wilson International Center for Scholars in the Smithsonian Institution; (iv) the Institute of Museum and Library Services; (v) the United States Interagency Council on Homelessness; (vi) the Community Development Financial Institutions Fund; and (vii) the Minority Business Development Agency.",
+        "reasoning": "The order directs the elimination of non-statutory functions and the reduction of personnel for a specific list of government agencies and entities, which constitutes an act of abolition."
+      }
+    ]
+  },
+  {
+    "ID": 47,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Vice President, in consultation with the Assistant to the President for Domestic Policy and the Special Assistant to the President and Senior Associate Staff Secretary, Lindsey Halligan, Esq., shall work to effectuate the policies of this order through his role on the Smithsonian Board of Regents with respect to the Smithsonian Institution and its museums, education and research centers, and the National Zoo, including by seeking to remove improper ideology from such properties, and shall recommend to the President any additional actions necessary to fully effectuate such policies.",
+        "reasoning": "This provision reallocates oversight responsibility for the content and ideology of the Smithsonian Institution's exhibits to the Vice President and specified White House staff."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Secretary of the Interior shall: (i) determine whether, since January 1, 2020, public monuments, memorials, statues, markers, or similar properties within the Department of the Interior’s jurisdiction have been removed or changed to perpetuate a false reconstruction of American history... (ii) take action to reinstate the pre-existing monuments, memorials, statues, markers, or similar properties, as appropriate...",
+        "reasoning": "The order mandates a review and potential reversal of changes to public monuments, reconfiguring the policies and procedures governing historical commemoration on federal lands."
+      }
+    ]
+  },
+  {
+    "ID": 183,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "In accordance with section 301 of the National Emergencies Act (50 U.S.C. 1631), the construction authority provided in section 2808 of title 10, United States Code, is invoked and made available, according to its terms, to the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works, to address any vulnerabilities identified in the assessment mandated by subsection (a).",
+        "reasoning": "This order invokes and reallocates specific statutory construction authority to the Secretary of the Army to address vulnerabilities in energy infrastructure, changing the jurisdictional application of that authority."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The heads of executive departments and agencies (“agencies”) shall identify and exercise any lawful emergency authorities available to them, as well as all other lawful authorities they may possess, to facilitate the identification, leasing, siting, production, transportation, refining, and generation of domestic energy resources, including, but not limited to, on Federal lands.",
+        "reasoning": "The declaration of a national energy emergency reconfigures the operational posture of all agencies by directing them to identify and use all available emergency authorities to expedite energy projects."
+      }
+    ]
+  },
+  {
+    "ID": 119,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, the Attorney General shall examine all orders, regulations, guidance, plans, international agreements, and other actions of executive departments and agencies (agencies) to assess any ongoing infringements of the Second Amendment rights of our citizens, and present a proposed plan of action to the President, through the Domestic Policy Advisor, to protect the Second Amendment rights of all Americans.",
+        "reasoning": "This order mandates a comprehensive, government-wide review of all agency actions related to the Second Amendment, creating a new process to reconfigure existing policies and regulations."
+      }
+    ]
+  },
+  {
+    "ID": 120,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "There is established within the Executive Office of the President (EOP) the White House Faith Office (Office).",
+        "reasoning": "The order explicitly establishes the White House Faith Office within the EOP, creating a new government entity."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Agencies that lack a Center for Faith shall designate or appoint a Faith Liaison within the agency to oversee the agency’s efforts to assist the Office in carrying out this order and to report on such efforts to agency leadership and the Office.",
+        "reasoning": "This provision reconfigures the internal structure of agencies by requiring the creation of a new 'Faith Liaison' position where one does not already exist."
+      }
+    ]
+  },
+  {
+    "ID": 169,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 30 days of the date of this order, the Secretary of the Interior shall, consistent with 43 U.S.C. 364 through 364f, reinstate the name “Mount McKinley.” ...As such, within 30 days of the date of this order, the Secretary of the Interior shall, consistent with 43 U.S.C. 364 through 364f, take all appropriate actions to rename as the “Gulf of America” the U.S. Continental Shelf area... The Secretary shall subsequently update the GNIS to reflect the renaming of the Gulf and remove all references to the Gulf of Mexico from the GNIS, consistent with applicable law.",
+        "reasoning": "The order mandates the renaming of major geographic features and directs the U.S. Board on Geographic Names and the Secretary of the Interior to update official government records, reconfiguring a key government naming and mapping process."
+      }
+    ]
+  },
+  {
+    "ID": 60,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "I hereby revoke Executive Order 14237 of March 14, 2025 (Addressing Risks from Paul Weiss).",
+        "reasoning": "The order explicitly revokes a prior executive order, thereby abolishing the specific policies and directives it had put into place."
+      }
+    ]
+  },
+  {
+    "ID": 157,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "This order revokes certain existing AI policies and directives that act as barriers to American AI innovation... all policies, directives, regulations, orders, and other actions taken pursuant to the revoked Executive Order 14110 of October 30, 2023 (Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence).",
+        "reasoning": "The order explicitly states its purpose is to revoke existing AI policies and directives, specifically those established under the revoked Executive Order 14110."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 180 days of this order, the Assistant to the President for Science and Technology (APST), the Special Advisor for AI and Crypto, and the Assistant to the President for National Security Affairs (APNSA), in coordination with... [other officials]... shall develop and submit to the President an action plan to achieve the policy set forth in section 2 of this order.",
+        "reasoning": "The order reconfigures the government's approach to AI by mandating the development of a new, comprehensive action plan to replace the one established by the revoked E.O. 14110."
+      }
+    ]
+  },
+  {
+    "ID": 145,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Within 60 days of the date of this order, the Secretary of Education shall issue guidance regarding how States can use Federal formula funds to support K-12 educational choice initiatives. The Secretary of Education shall include education freedom as a priority in discretionary grant programs, as appropriate and consistent with applicable law.",
+        "reasoning": "This order reconfigures the Department of Education's grant-making and guidance procedures by prioritizing and enabling the use of federal funds for school choice initiatives."
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Effective at 12:01 a.m. eastern daylight time on April 10, 2025, and until 12:01 a.m. eastern daylight time on July 9, 2025, all articles imported into the customs territory of the United States from the trading partners enumerated in Annex I to Executive Order 14257 shall be, consistent with law, subject to an additionalad valoremrate of duty of 10 percent, subject to all applicable exceptions set forth in Executive Order 14257.",
+        "reasoning": "This order reconfigures the tariff structure established in a previous order by temporarily suspending country-specific rates and imposing a different, uniform rate for a 90-day period."
+      }
+    ]
+  },
+  {
+    "ID": 206,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The Attorney General, in consultation with the heads of all departments and agencies of the United States, shall take appropriate action to review the activities of all departments and agencies exercising civil or criminal enforcement authority of the United States...and identify any instances where a department’s or agency’s conduct appears to have been contrary to the purposes and policies of this order, and prepare a report to be submitted to the President...with recommendations for appropriate remedial actions to be taken...",
+        "reasoning": "This order establishes a new, government-wide review process for all civil and criminal enforcement actions from the past four years, reconfiguring oversight and accountability mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 105,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "It is the policy of my Administration that discretionary Federal funds should not be used to directly or indirectly support or subsidize an educational service agency, State educational agency, local educational agency, elementary school, secondary school, or institution of higher education that requires students to have received a COVID-19 vaccination to attend any in-person education program.",
+        "reasoning": "The order reconfigures the use of discretionary federal education funds by prohibiting their allocation to schools with COVID-19 vaccine mandates, altering grant-making criteria and institutional policies."
+      }
+    ]
+  },
+  {
+    "ID": 71,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The following executive actions are hereby revoked:(a) Executive Order 13994 of January 21, 2021 (Ensuring a Data-Driven Response to COVID-19 and Future High-Consequence Public Health Threats). (b) National Security Memorandum 3 of February 4, 2021 (Revitalizing America’s Foreign Policy and National Security Workforce, Institutions, and Partnerships).",
+        "reasoning": "This order explicitly revokes a list of prior executive orders and memoranda, thereby abolishing the policies and any non-statutory entities or frameworks they created."
+      }
+    ]
+  },
+  {
+    "ID": 28,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Effective with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. eastern daylight time on April 9, 2025: (a) heading 9903.01.63 of the HTSUS shall be amended by deleting “34%” each place that it appears and by inserting “84%” in lieu thereof;",
+        "reasoning": "The order reconfigures the U.S. tariff system by amending the Harmonized Tariff Schedule (HTSUS) to increase the ad valorem duty rate on specific imports from the PRC."
+      }
+    ]
+  },
+  {
+    "ID": 44,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 3,
+        "type_name": "Agency Creation",
+        "evidence": "Within 30 days of the date of this order, the Secretary of Commerce, in coordination with the Secretary of the Treasury and the Assistant to the President for Economic Policy, shall establish within the Department of Commerce an office named the United States Investment Accelerator (Investment Accelerator).",
+        "reasoning": "This sentence explicitly mandates the establishment of a new office, the United States Investment Accelerator, within the Department of Commerce."
+      },
+      {
+        "type_id": 5,
+        "type_name": "Jurisdictional Reallocation",
+        "evidence": "The Investment Accelerator shall be responsible for the CHIPS Program Office within the Department of Commerce, which shall focus on delivering the benefit of the bargain for taxpayers by negotiating much better deals than those of the previous administration.",
+        "reasoning": "This provision reallocates responsibility for the CHIPS Program Office to the newly created Investment Accelerator, changing its oversight and operational domain."
+      }
+    ]
+  },
+  {
+    "ID": 21,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Agency heads shall, in consultation with the Chairman of the Federal Trade Commission (Chairman) and the Attorney General, complete a review of all regulations subject to their rulemaking authority and identify those that: (i) create, or facilitate the creation of, de facto or de jure monopolies; (ii) create unnecessary barriers to entry for new market participants...",
+        "reasoning": "The order establishes a new, government-wide review process for all regulations to identify and recommend the rescission or modification of those deemed anti-competitive, reconfiguring regulatory oversight mechanisms."
+      }
+    ]
+  },
+  {
+    "ID": 138,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "Unless prohibited by law, whenever an executive department or agency (agency) publicly proposes for notice and comment or otherwise promulgates a new regulation, it shall identify at least 10 existing regulations to be repealed.",
+        "reasoning": "This order establishes a new 'ten-for-one' rule for all new regulations, which fundamentally reconfigures the entire federal regulatory promulgation process."
+      }
+    ]
+  },
+  {
+    "ID": 127,
+    "is_reorganization": true,
+    "analysis": [
+      {
+        "type_id": 4,
+        "type_name": "Agency Abolition",
+        "evidence": "The Secretary shall terminate the office of United States Representative to the UNHRC and any positions primarily dedicated to supporting the United States Representative to the UNHRC.",
+        "reasoning": "The order explicitly directs the termination of a specific government office and its supporting positions, which is a direct act of agency abolition."
+      },
+      {
+        "type_id": 6,
+        "type_name": "Institutional Reconfiguration",
+        "evidence": "The United States will not participate in the UNHRC and will not seek election to that body.",
+        "reasoning": "This provision reconfigures the United States' operational posture and participation in an international body, altering a key foreign policy mechanism."
+      }
+    ]
+  }
+]
